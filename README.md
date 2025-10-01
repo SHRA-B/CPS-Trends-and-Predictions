@@ -50,16 +50,11 @@ This project presents a comprehensive analysis of conviction outcomes across Cro
 - Use predictive models for proactive monitoring and intervention.
 
 ## Project Structure
-├── data/ 
-# Raw and cleaned datasets
-├── scripts/ 
-# R scripts for cleaning, analysis, and modeling
-├── figures/ 
-# Visualizations and plots
-├── README.md 
-# Project overview and summary
-└── report/ 
-# Full analysis report with detailed findings
+├── data/ # Raw and cleaned datasets
+├── scripts/ # R scripts for cleaning, analysis, and modeling
+├── figures/ # Visualizations and plots
+├── README.md # Project overview and summary
+└── report/ # Full analysis report with detailed findings
 
 ## License
 This project is licensed under the MIT License.
